@@ -1,0 +1,65 @@
+img {
+    height: 300px;
+    width: 400px;
+    position: fixed;
+    top: 18rem;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./tools-for-motivation-KvTOwKoji7g-unsplash.jpg); 
+    background-size: cover;
+    background-position: center;
+    padding: 32px;
+    margin: 0;
+    min-height: 100vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    background-color: rgba(255, 255, 255, 0.628);
+    font-size: medium;
+    font-weight: 500;
+    float: inline-start;
+}
+h6 {
+    float: right;
+    font-weight: 10;
+}
+a {
+    color: rgba(0, 0, 0, 0.788);
+    text-decoration: none;
+}
+
+h4 {
+    position: fixed;
+    top: 6rem;
+    font-weight: 300;
+    color: yellowgreen;
+
+}
+
+p {
+    position: fixed;
+    width: 600px;
+    height: 200px;
+    top: 10rem;
+
+}
+ul {
+    position: fixed;
+    right: 45rem;
+    top: 17rem;
+    color: yellowgreen;
+}
+ol{
+    position: fixed;
+    right: 5rem;
+    top: 17rem;
+    font-weight: 5;
+    width: 600px;
+
+}
